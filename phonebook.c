@@ -1,15 +1,3 @@
-/*
-    Author : Rohit Singh
-    Project Name : Phonebook
-    Date created : 16/07/2021
-    Description : By using this file we can save contacts and do these operations in it.
-        1) view all contacts.
-        2) add a contact.
-        3) remove a contact.
-        4) search details of any contact number.
-        5) update details of any contact.
-        6) delete whole phonebook (delete all contacts present in phonebook).
-*/
 
 #include <stdio.h>
 #include <stdlib.h>
