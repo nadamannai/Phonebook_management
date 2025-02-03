@@ -16,7 +16,7 @@ typedef struct person person;
 
 // All function declaration.
 void remove_all();
-void print_menu();
+//void print_menu();
 void add_person();
 void list_record();
 void search_person();
@@ -35,7 +35,7 @@ void start();
 void start() {
     int choice;
     while (1) {
-        print_menu();
+      //  print_menu();
         scanf("%d", &choice);
         switch (choice) {
             case 1:
